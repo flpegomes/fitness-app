@@ -85,7 +85,7 @@ export function getMetricMetaInfo (metric) {
                 )
             }
         },
-        swin: {
+        swim: {
             displayName: 'Swim',
             max: 9900, 
             unit: 'meters',
